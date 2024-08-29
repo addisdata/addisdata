@@ -12,6 +12,11 @@ The following are....
 My educational background...
 
 ## References
-1. [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
+- [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 
-
+## Technical skills
+|MS Excel|Google Sheets|SQL|Python|JavaScript|
+|--------------------------------------------|
+|Power BI|Django|Flask|FastAPI|
+|-----------------------------|
+|PowerPoint|Git Bash|
