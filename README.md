@@ -15,7 +15,9 @@ My educational background...
 - [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 
 ## Technical skills
-1. **Programming languages** - Python, JavaScript
-2. **Databases** - SQL Server, PostgreSQL, MySQL, SQLite
-3. **Web frameworks** - Django, Flask, FastAPI
+1. *Programming languages* - Python, JavaScript
+2. *BI Tool* - Power BI 
+3. *Databases* - SQL Server, PostgreSQL, MySQL, SQLite
+4. *Web frameworks* - Django, Flask, FastAPI
+   
 
