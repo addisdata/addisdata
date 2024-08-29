@@ -18,7 +18,7 @@ The following are....
 
 ## Technical skills
 1. *Spreadsheets* - MS Excel, Google Sheets
-2. *Programming languages* - Python, JavaScript
+2. *Programming languages* - Python, R, JavaScript
 3. *BI Tool* - Power BI 
 4. *Databases* - SQL Server, PostgreSQL, MySQL, SQLite
 5. *Web frameworks* - Django, Flask, FastAPI
