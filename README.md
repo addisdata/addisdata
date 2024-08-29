@@ -12,7 +12,7 @@ The following are....
 - MBA General Management
 - BA Economics
 
-## Reference
+## References
 - [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 
 ## Technical skills
