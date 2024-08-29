@@ -9,7 +9,8 @@ I have got more than 20 years of work experience in data analytics and reporting
 The following are....
 
 ## Educational background
-My educational background...
+- MBA General Management
+- BA Economics
 
 ## Reference
 - [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
