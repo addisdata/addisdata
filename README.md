@@ -18,7 +18,7 @@ The following are....
 
 ## Acquired technical skills
 - *Spreadsheets* - MS Excel, Google Sheets
-- *Programming languages* - Python, R, JavaScript
+- *Programming languages* - Python, R
 - *BI Tool* - Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite
 - *Web frameworks* - Django, Flask, FastAPI
