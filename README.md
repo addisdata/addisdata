@@ -11,5 +11,7 @@ The following are....
 ## Educational background
 My educational background...
 
-## Technical skills
-These are the skills I acquired...
+## References
+1. [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
+
+
