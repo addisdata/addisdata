@@ -8,5 +8,5 @@ I have got more than 20 years of work experience in data analytics and reporting
 ## Certifications
 The following are....
 
-## Educational Background
+## Educational background
 My educational background...
