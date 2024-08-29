@@ -3,7 +3,7 @@ I have got more than 20 years of work experience in data analytics and reporting
 
 ## Projects 
 1. [Superstore sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
-2. [Coffe shop sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
+2. [Coffee shop sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
 ## Certifications
 The following are....
 
