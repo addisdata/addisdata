@@ -15,6 +15,7 @@ My educational background...
 - [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 
 ## Technical skills
-| Syntax | Header |
-| --------------- |
-| Power BI | Django |
+1. **Programming languages** - Python, JavaScript
+2. **Databases** - SQL Server, PostgreSQL, MySQL, SQLite
+3. **Web frameworks** - Django, Flask, FastAPI
+4. **Terminal operation systems** - Git Bash, PowerShell
