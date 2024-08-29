@@ -18,4 +18,4 @@ My educational background...
 1. **Programming languages** - Python, JavaScript
 2. **Databases** - SQL Server, PostgreSQL, MySQL, SQLite
 3. **Web frameworks** - Django, Flask, FastAPI
-4. **Terminal operation systems** - Git Bash, PowerShell
+
