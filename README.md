@@ -16,7 +16,7 @@ The following are....
 - [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 - [Github](https://github.com/addiscodr)
 
-## Acquired technical skills
+## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
 - *Programming languages* - Python, R, JavaScript
 - *BI Tool* - Power BI 
