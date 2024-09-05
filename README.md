@@ -13,7 +13,7 @@ The following are....
 - BA Economics
 
 ## References
-- [Stack overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
+- [Stackoverflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 - [Github](https://github.com/addiscodr)
 
 ## Acquired skills
