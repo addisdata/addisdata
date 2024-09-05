@@ -19,7 +19,7 @@ The following are....
 ## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
 - *Programming languages* - Python, R, JavaScript
-- *BI Tool* - Power BI 
+- *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
 - *Web development frameworks* - Django, Flask
 
