@@ -1,5 +1,5 @@
 ## About me
-I have got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that is located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market. In the following, I outline my projects that I accomplished in the field of data analytics and web development. I also provide pertinent information regarding my training,  educational background and the active participation I have been through in solving coding problems.
+I have got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that is located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market. In the following, I outline my projects that I accomplished in the field of data analytics and web development. I also provide pertinent information regarding my training,  educational background and the active participation I have been through in solving coding problems at major platforms.
 
 ## Projects 
 1. [Superstore sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
