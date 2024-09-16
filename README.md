@@ -13,8 +13,8 @@ The following are....
 - BA Economics
 
 ## References
-- [Stackoverflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
-- [Github](https://github.com/addiscodr)
+- [Stack Overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
+- [Quora](https://github.com/addiscodr)
 
 ## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
