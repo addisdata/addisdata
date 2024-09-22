@@ -1,5 +1,5 @@
 ## About me
-I have got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that's located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market. In the following, I outline my projects that I accomplished in the field of data analytics and web development. 
+I have got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that's located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market. In the following, I outline my projects that I accomplished in the field of data analytics. 
 ## Projects 
 1. [Superstore sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
 2. [Coffee shop sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
@@ -17,10 +17,10 @@ The following are....
 
 ## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
-- *Programming languages* - Python, R, JavaScript
+- *Programming languages* - Python, R
 - *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
-- *Web development frameworks* - Django, Flask, jQuery
+- *Web development frameworks* - Flask, jQuery
 
 ## Publications
 - [The Journey to the Heart of the World](https://www.amazon.com/Journey-Heart-World-Esayas-Gebresilasie-ebook/dp/B0C1NHPQR8/ref=sr_1_fkmr0_1?crid=DZW84T6JCPLP&dib=eyJ2IjoiMSJ9.c0YhucJBNFmfcw1LLPYgZlsn7ebge4K4ndFiT08hK-Q.i-YLdEswow935ZAo2wYJZ2HWhaR9KBLrw2w4XBpyn4s&dib_tag=se&keywords=esayas+f+gebresilase&qid=1724957706&sprefix=esayas+f+gebresilase%2Caps%2C278&sr=8-1-fkmr0)
