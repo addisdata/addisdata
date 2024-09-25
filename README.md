@@ -20,7 +20,7 @@ The following are....
 - *Programming languages* - Python, R, JavaScript
 - *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
-- *Web development frameworks* - Flask, Nodejs
+- *Web development frameworks* - Flask, Nodejs, Expressjs
 
 ## Publications
 - [The Journey to the Heart of the World](https://www.amazon.com/Journey-Heart-World-Esayas-Gebresilasie-ebook/dp/B0C1NHPQR8/ref=sr_1_fkmr0_1?crid=DZW84T6JCPLP&dib=eyJ2IjoiMSJ9.c0YhucJBNFmfcw1LLPYgZlsn7ebge4K4ndFiT08hK-Q.i-YLdEswow935ZAo2wYJZ2HWhaR9KBLrw2w4XBpyn4s&dib_tag=se&keywords=esayas+f+gebresilase&qid=1724957706&sprefix=esayas+f+gebresilase%2Caps%2C278&sr=8-1-fkmr0)
