@@ -1,7 +1,8 @@
 ## About me
 I have got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that's located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market.
 
-Through online training and self-taught, I have acquired pertinent skills with respect to... 
+Through online training and self-taught endeavors, I've acquired pertinent skills with respect to data analytics, backend web development, and mobile app development.
+
 
 In the following, I outline my projects that I accomplished in the field of data analytics. 
 ## Projects 
