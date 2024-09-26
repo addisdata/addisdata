@@ -3,7 +3,7 @@ I have got more than 20 years of work experience in data analytics and reporting
 
 Through online training and self-taught endeavors, I've acquired pertinent skills with respect to data analytics, backend web development, and mobile app development.
 
-I list down some of the projects that I accomplished as follows:
+Below, I list down some of the projects that I accomplished as follows:
 
 ## Projects 
 1. [Superstore sales analysis](https://github.com/addiscodr/superstore-sales-analysis/blob/main/README.md)
