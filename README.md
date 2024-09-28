@@ -25,7 +25,7 @@ The following are....
 - *Programming languages* - Python, R, JavaScript
 - *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
-- *Web development frameworks* - Flask, Node.js, Express.js
+- *Web & mobile app development* - Node.js, Express.js, Flutter
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## Publications
