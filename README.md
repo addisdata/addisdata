@@ -22,7 +22,7 @@ The following are....
 
 ## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
-- *Programming languages* - Python, R, JavaScript
+- *Programming languages* - Python, R, JavaScript, Dart
 - *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
 - *Web & mobile app development* - Node.js, Express.js, Flutter
