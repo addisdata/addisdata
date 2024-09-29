@@ -26,6 +26,7 @@ The following are....
 - *BI Tool* - MS Power BI 
 - *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
 - *Web & mobile applications development* - Node.js, Express.js, Flutter
+- *Version control system* - Git/Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## Publications
