@@ -22,10 +22,11 @@ The following are....
 
 ## Acquired skills
 - *Spreadsheets* - MS Excel, Google Sheets
+- *Front-end web technologies* - HTML5, CSS3
 - *Programming languages* - Python, R, JavaScript, Dart
 - *BI Tool* - MS Power BI 
-- *Databases* - SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
-- *Web & mobile applications development* - Node.js, Express.js, Flutter
+- *Database systems* - SQL & NoSQL
+- *Web & mobile apps development frameworks* - Node.js, Express.js, Flutter
 - *Version control system* - Git/Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
