@@ -25,7 +25,7 @@ The following are....
 - *Front-end web technologies* - HTML5, CSS3
 - *Programming languages* - Python, R, JavaScript, Dart
 - *BI Tool* - MS Power BI 
-- *Database systems* - SQL & NoSQL
+- *Database systems* - SQL, NoSQL
 - *Web & mobile apps development frameworks* - Node.js, Express.js, Flutter
 - *Version control system* - Git/Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
