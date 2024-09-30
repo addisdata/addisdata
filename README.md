@@ -27,7 +27,7 @@ The following are....
 - *Data analytics libraries* - NumPy, Pandas, Matplotlib, Seaborn, Plotly 
 - *Data analytics and visualization tool* - MS Power BI 
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(MongoDB)
-- *Backend Web development frameworks* - Node.js, Express.js
+- *Backend Web API development frameworks* - Node.js, Express.js
 - *Mobile app development framework* - Flutter
 - *Version control system* - Git/Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
