@@ -25,7 +25,7 @@ The following are....
 - *Frontend web technologies* - HTML5, CSS3, JavaScript
 - *Data analytics programming languages* - Python, R
 - *BI tool* - MS Power BI 
-- *Database systems* - SQL(SQL Server, PostgresSQL, MySQL, SQLite), NoSQL(MongoDB)
+- *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(MongoDB)
 - *Backend Web development frameworks* - Node.js, Express.js
 - *Mobile app development framework* - Flutter
 - *Version control system* - Git/Github
