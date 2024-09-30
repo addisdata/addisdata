@@ -21,12 +21,13 @@ The following are....
 - [Quora](https://github.com/addiscodr)
 
 ## Acquired skills
-- *Spreadsheets* - MS Excel, Google Sheets
-- *Front-end web technologies* - HTML5, CSS3
-- *Programming languages* - Python, R, JavaScript, Dart
-- *BI Tool* - MS Power BI 
-- *Database systems* - SQL, NoSQL
-- *Web & mobile apps development frameworks* - Node.js, Express.js, Flutter
+- *Spread sheets* - MS Excel, Google Sheets, 
+- *Frontend web technologies* - HTML5, CSS3, JavaScript
+- *Data analytics programming languages* - Python, R
+- *BI tool* - MS Power BI 
+- *Database systems* - SQL(SQL Server, PostgresSQL, MySQL, SQLite), NoSQL(MongoDB)
+- *Backend Web development frameworks* - Node.js, Express.js
+- *Mobile app development framework* - Flutter
 - *Version control system* - Git/Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
