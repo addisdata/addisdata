@@ -23,7 +23,7 @@ The following are....
 ## Acquired skills
 - *Spread sheets* - MS Excel, Google Sheets, 
 - *Frontend web technologies* - HTML5, CSS3, JavaScript
-- *Data analytics programming languages* - Python, R
+- *Data analytics programming language* - Python
 - *Data analytics libraries* - NumPy, Pandas, Matplotlib, Seaborn, Plotly 
 - *Data analytics and visualization tool* - MS Power BI 
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(MongoDB)
