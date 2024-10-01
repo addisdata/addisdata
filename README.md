@@ -1,7 +1,7 @@
 ## About me
-I've got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company that's located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market.
+I've got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Head of Planning & Business Development Department* at a Petroleum Company which is located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market.
 
-Through online training and self-taught endeavors, I've acquired pertinent skills with respect to data analytics, backend web development, and mobile app development.
+Through online training and self-taught endeavors, I've acquired pertinent skills as related to data analytics, backend web API development, and mobile app development.
 
 Below, I list down some of the projects that I accomplished as follows:
 
@@ -21,15 +21,13 @@ The following are....
 - [Quora](https://github.com/addiscodr)
 
 ## Acquired skills
-- *Spread sheets* - MS Excel, Google Sheets, 
-- *Frontend web technologies* - HTML5, CSS3, JavaScript
-- *Data analytics programming language* - Python
-- *Data analytics libraries* - NumPy, Pandas, Matplotlib, Seaborn, Plotly 
-- *Data analytics and visualization tool* - MS Power BI 
+- *Spreadsheets* - MS Excel, Google Sheets, 
+- *Frontend web development technologies* - HTML5, CSS3, JavaScript
+- *Data analytics and visualization technologies* - MS Power BI, Python, R, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(MongoDB)
 - *Backend Web API development frameworks* - Node.js, Express.js
-- *Mobile app development framework* - Flutter
-- *Version control system* - Git/Github
+- *Mobile app development language and framework* - Dart, Flutter
+- *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## Publications
