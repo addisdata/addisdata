@@ -24,7 +24,7 @@ The following are....
 - *Spreadsheets* - MS Excel, Google Sheets, 
 - *Frontend web development technologies* - HTML5, CSS3, JavaScript
 - *Data analytics and visualization technologies* - MS Power BI, Python, R, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
-- *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(MongoDB)
+- *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
 - *Backend web API development frameworks* - Node.js, Express.js
 - *Mobile app development language and framework* - Dart, Flutter
 - *Version control system* - Git, Github
