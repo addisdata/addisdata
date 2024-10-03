@@ -25,7 +25,7 @@ The following are....
 - *Frontend web development technologies* - HTML5, CSS3, JavaScript, TypeScript
 - *Data analytics and visualization technologies* - MS Power BI, Python, R, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
-- *Web API development frameworks* - Node.js, Express.js, Prisma
+- *Web API development frameworks* - Node.js, Express.js, ejs, Prisma
 - *Mobile app development language and framework* - Dart, Flutter
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
