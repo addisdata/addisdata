@@ -26,7 +26,7 @@ The following are....
 - *Data analytics and visualization technologies* - MS Power BI, Python, R, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
 - *Web API development frameworks* - Node.js, Express.js, ejs, Prisma ORM
-- *Mobile app development language and framework* - Dart, Flutter
+- *Mobile app development tools* - Dart, Flutter
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
